@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Luke Paireepinart
 description: Software Engineering Manager, Architect, Open-Source Contributor
-show_downloads: "false"
+show_downloads: false
+github.is_project_page: false

@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Professional Experience
 
-You can use the [editor on GitHub](https://github.com/lukevp/lukep.dev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here is [my current resume](https://lukep.dev/assets/Luke%20Paireepinart%20Resume.pdf).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Open-Source
 
-### Markdown
+I am a huge believer in Open-Source software. I have created several projects myself, and I am also a maintainer.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## My Projects
 
-```markdown
-Syntax highlighted code block
+### [ESC POS .NET](https://github.com/lukevp/ESC-POS-.NET)
 
-# Header 1
-## Header 2
-### Header 3
+- .NET Standard application for efficient, easy to use thermal printing & POS device control
+- Cross Platform - compatible with Windows, Linux, and OSX
+- WiFi, Bluetooth, USB and Ethernet Support
 
-- Bulleted
-- List
+## Maintainer
 
-1. Numbered
-2. List
+### [React-xterm](https://github.com/farfromrefug/react-xterm)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lukevp/lukep.dev/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-
