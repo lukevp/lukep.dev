@@ -1,6 +1,6 @@
 # Professional Experience
 
-I have been a professional software developer for over a decade, with an extensive background in Computer Science (including a M.S. in C.S.).
+I have been a professional software developer for over a decade, with an extensive background in Computer Science (including an M.S. in C.S.).
 
 For the past 4 years, I have been in a management role, and I am blessed to be able to mentor and grow my team every day.
 
@@ -32,7 +32,7 @@ I am a huge believer in Open-Source software. I have created several projects my
 - There is currently a frequency-based radix trie implemented for extremely fast retrieval of terms, for use in an autocomplete.
 - In the future, there will be range-based and full-text TF-IDF query support, along with optional persistence, to enable automatic and high performance document indexing and querying within the browser
 
-### [My GitHub](https://lukep.dev/github)
+### [My GitHub](https://github.com/lukevp)
 
 - I have several projects on my github that are not listed above. Please check them out and give them a star or a follow!
 
