@@ -2,7 +2,7 @@
 
 I have been a professional software engineer for over a decade, with an extensive background in Computer Science (including an M.S. in C.S.). I have been in engineering lead roles as well as an engineering manager for over 5 years.  I am blessed to be able to mentor and grow teams every day.
 
-I have extensive C# and .NET Core experience on the backend, and React on the backend.  
+I have extensive C# and .NET Core experience on the backend, and JS/TypeScript + React on the frontend.  
 
 Here are some highlights of my experience:
 
