@@ -1,8 +1,29 @@
 # Professional Experience
 
-I have been a professional software engineer for over a decade, with an extensive background in Computer Science (including an M.S. in C.S.).
+I have been a professional software engineer for over a decade, with an extensive background in Computer Science (including an M.S. in C.S.). I have been in engineering lead roles as well as an engineering manager for over 5 years.  I am blessed to be able to mentor and grow teams every day.
 
-I have also spent 4+ years in a management role.  I am blessed to be able to mentor and grow teams every day.
+I have extensive C# and .NET Core experience on the backend, and React on the backend.  
+
+Here are some highlights of my experience:
+
+
+**Lead Engineer - Cox Auto, Inc. (Kelley Blue Book, AutoTrader.com, Dealer.com)** 2020-Present
+
+I lead a fullstack team building a serverless solution on AWS called Common API.  Common API is a hub for enterprise-wide API sales and management, allowing internal providers to sell and monitor access to their APIs directly to consumers, as well as B2B to dealerships and startups.  
+
+Our backend tech stack is ASP.NET Core + DynamoDB running on Lambda and API Gateway.
+
+Our frontend and React + Redux + TypeScript for the frontend.  
+
+I introduced Redux and TypeScript to the team, built most of our CI/CD processes, and am currently working on integrating full-stack logging and observability practices.
+
+
+**2018-2020** Engineering Manager - McCoy Corp.
+**2016-2018** Lead Engineer - McCoy Corp.
+
+At McCoy's, I ran the primary development team supporting custom application development for a billion dollar company.  We built everything, from React Native mobile applications to the E-Commerce site mccoys.com.  
+
+
 
 Please feel free to reach out! I'm always open to new challenges and opportunities.
 
